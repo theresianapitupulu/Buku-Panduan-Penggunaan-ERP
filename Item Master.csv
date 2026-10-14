@@ -1,0 +1,6 @@
+Item Code,Item Name,Item Group,Default Unit of Measure,Is Stock Item,Is Purchase Item,Is Sales Item,Standard Rate (IDR)
+RM-KAYU-01,Papan Kayu Jati 200x50cm,Bahan Baku,Lembar,1,1,0,150000
+RM-KAKI-01,Kaki Meja Besi Hollow,Bahan Baku,Pcs,1,1,0,40000
+RM-BAUT-01,Set Baut & Sekrup Meja,Bahan Baku,Set,1,1,0,15000
+RM-CAT-01,Plitur / Cat Kayu Jati 1L,Bahan Baku,Kaleng,1,1,0,60000
+FG-MEJA-01,Meja Kayu Minimalis (Theresia Edition),Produk Jadi,Unit,1,0,1,850000
